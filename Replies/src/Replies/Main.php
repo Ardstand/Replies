@@ -73,7 +73,7 @@ class Main extends PluginBase {
 					"/r <message: string>",
 					["r"]
 				);
-				$this->setPermission("Replies.reply");
+				$this->setPermission("replies.reply");
 			}
 
 			/**
